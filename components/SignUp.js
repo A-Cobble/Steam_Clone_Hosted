@@ -45,7 +45,7 @@ const SignUp = () => {
                         </label>
                         <select
                           name="country"
-                          className="w-[291px] mt-[3px] bg-[#32353C] rounded-[3px] text-[#E9E9E9] px-[6px] py-[8px] block border-none w-full font-sans font-normal"
+                          className="mt-[3px] bg-[#32353C] rounded-[3px] text-[#E9E9E9] px-[6px] py-[8px] block border-none w-full font-sans font-normal"
                         >
                           <option value="AF">Afghanistan</option>
                           <option value="AX">Aland Island</option>
@@ -204,7 +204,7 @@ const SignUp = () => {
                                     reCAPTCHA
                                     </div>
                                 </div>
-                                <div className="mt-[2px] mr-[11px] mb-0 ml-0 pr-[2px] ml-[27px]  right-0  w-[75px] text-[8px] font-[400] ">
+                                <div className="mt-[2px] mr-[11px] mb-0 pr-[2px] ml-[27px]  right-0  w-[75px] text-[8px] font-[400] ">
                                     <a className="text-[#f5f5f5] inline pl-[1px] pr-[1px] pt-[2px] pb-[2px]  ">Privacy</a>
                                     <span>-</span>
                                     <a className="text-[#f5f5f5] inline pl-[1px] pr-[1px] pt-[2px] pb-[2px]">Terms</a>
